@@ -5,7 +5,7 @@ from scanner import scan_document
 from enhancement import enhance_document
 
 
-IMAGE_PATH = "images/sample.jpeg"
+IMAGE_PATH = "images/document.jpeg"
 
 
 try:
